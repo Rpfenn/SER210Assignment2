@@ -1,3 +1,5 @@
+import edu.quinnipiac.ser210.rpfassignment2.R
+
 data class Country(
     val name: String,
     val flag: Int,
