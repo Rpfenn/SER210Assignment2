@@ -37,6 +37,10 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import edu.quinnipiac.ser210.rpfassignment2.ui.theme.RPFAssignment2Theme
+//Ryan Fennelly
+//2/17/2025
+//Assignment 2
+
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
